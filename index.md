@@ -1,11 +1,12 @@
 ##my name is vishal
- Thank you.
+ Thank you
 [My own website] (https://vishalahirwarguna.blogspot.com) 
 Hello .
 
 ## love guru to welcome
 
-You can use the [editor on GitHub](https://github.com/Vishalkgf/love-guru/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [my other websites
+](https://vishalahirwarguna.blogspot.com) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
