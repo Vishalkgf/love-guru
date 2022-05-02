@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+##my name is vishal . Thanks for the whoch website.thank you.
+[My own website] (vishalahirwarguna.blogspot.com) .
+
+
+## love guru to welcome
 
 You can use the [editor on GitHub](https://github.com/Vishalkgf/love-guru/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
